@@ -27,7 +27,7 @@
    </div>
    <div class="button"> 
 <div>
-   <center><button class="paciente"style="font-size: 30PX; background-color: #00a6fb;color: white"> <img src="https://live.staticflickr.com/65535/52750902276_f373c08c05_m.jpg" width="45" height="45" id="img-1">paciente</button></center>
+   <center><button class="paciente"style="font-size: 30PX; background-color: #00a6fb;color: white"> <img src="https://live.staticflickr.com/65535/52750902276_f373c08c05_m.jpg " width="45" height="45" id="img-1">paciente</button></center>
    <br>
    </div>
 <div class="medico" 
