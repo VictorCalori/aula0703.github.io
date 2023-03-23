@@ -12,7 +12,7 @@
            
    <body class="corpo">
       <html>
-    <img src="[https://o.remove.bg/downloads/be7d6f77-2dba-4273-b51f-a90d39b2b86f/logo.png-removebg-preview.png](https://o.remove.bg/downloads/be7d6f77-2dba-4273-b51f-a90d39b2b86f/logo.png-removebg-preview.png)" width="425" height="150">
+    <img src="https://github.com/VictorCalori/aula0703.github.io/blob/main/logo.png-removebg-preview%20(1).png?raw=true" width="425" height="150">
      <head>
     </head>
      
